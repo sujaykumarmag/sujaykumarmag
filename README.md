@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 ### Hey there, I'm Sujay 👋
 
-I love developing innovative and interesting Fullstack Applications, I'm someone who places creativity over analysis :P
+I love developing innovative and interesting Projects 
 
 <br>
 
