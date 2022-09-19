@@ -14,9 +14,9 @@ I love developing innovative and interesting Fullstack Applications, I'm someone
 
 ### How's Life? 🌇
 
-🔭 I’m currently working on MERN projects! <br>
-🌱 I’m currently learning Web3 <3 <br>
-👯 I’m looking to collaborate on React and Node-js <br>
+🔭 I’m currently working on DApps a.k.a Web3 TechStack <br>
+🌱 I’m currently learning Cloud-Computing <3 <br>
+👯 I’m looking to collaborate on MERN and Solidity based Projects <br>
 💬 Ask me about JavaScript, Express.js  <br>
 😄 Pronouns: He/Him <br>
 
@@ -35,7 +35,6 @@ I love developing innovative and interesting Fullstack Applications, I'm someone
 
 ### Checkout my stats 👨‍💻
 
-👨‍🌾 It ain't much, but it's honest work 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujaykumarmag&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raajzz&layout=compact" />
 
