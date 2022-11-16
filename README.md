@@ -16,8 +16,8 @@ I love developing innovative and interesting Projects
 
 🔭 I’m currently working on DApps a.k.a Web3 TechStack <br>
 🌱 I’m currently learning Cloud-Computing <3 <br>
-👯 I’m looking to collaborate on MERN and Solidity based Projects <br>
-💬 Ask me about JavaScript, Express.js  <br>
+👯 I’m looking to collaborate on Solidity based Projects <br>
+💬 Ask me about JavaScript, Express.js, Solidity, Testing Smart Contracts...  <br>
 😄 Pronouns: He/Him <br>
 
 <br>
