@@ -9,6 +9,7 @@ Here are some ideas to get you started: -->
 ### Hey there, I'm Sujay 👋
 
 I love developing innovative and interesting Projects 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7D8B8&multiline=true&width=435&lines=I+am+a+Full+Stack+Developer;I+am+a+Blockchain+Developer;I+am+a+Data+Analyst)](https://git.io/typing-svg)
 
 <br>
 
