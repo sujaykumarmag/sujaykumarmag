@@ -62,33 +62,6 @@ I love developing innovative and interesting Projects
 
 
 
-<!-- <p  align="center"><img height= "500" src = "https://github.com/Apurva-tech/Apurva-tech/blob/master/final.gif"></p>
- -->
-
-# Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React-TypeScript. I'm skilled in machine learning. And I am a professional Technical writer.
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujaykumarmag&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
-
-
-
-
-
-
-<!--END_SECTION:activity-->
-
-<hr>
-
-<!-- <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/mindwrapper" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="mindwrapper" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/apurva866/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="apurva866" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/mind.wrapper" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mind.wrapper" height="50" width="50" /></a>
-</p> -->
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
   
 <!-- <a href="https://dev.to/apurvatech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apurvatech" height="30" width="40" /></a>
    -->
@@ -114,7 +87,7 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{sujaykumarmag}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{sujaykumarmag}/count.svg)  
   
 </a>
 
