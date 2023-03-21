@@ -84,18 +84,15 @@ I love developing innovative and interesting Projects
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sujaykumarmag&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" >
-    </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaykumarmag&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=10% height=auto  alt="2" ></td>
-   </tr> 
-   
-     
-    
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sujaykumarmag&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaykumarmag&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr>
 </table>
 
-<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sujaykumarmag&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />  
-
-
+<center>
+  <img height="180em" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=sujaykumarmag&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />  
+ </center>
+ 
 # Productivity Stats📈:
 <table>
   <tr>
