@@ -36,21 +36,8 @@ I love developing innovative and interesting Projects
 
 <br>
 
-### Checkout my streak 📈
-
-<br>
-
-<div align="center">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sujaykumarmag&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />  
-</div>
-
-<br> 
-<br>
-
-### Checkout my stats 👨‍💻
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujaykumarmag&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaykumarmag&layout=compact" />
 
 
 
@@ -102,7 +89,9 @@ I love developing innovative and interesting Projects
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaykumarmag&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujaykumarmag&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+     <td>
+     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sujaykumarmag&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />  
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujaykumarmag&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
