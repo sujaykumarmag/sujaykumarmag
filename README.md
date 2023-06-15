@@ -28,9 +28,9 @@ I love developing innovative and interesting Projects
 
 ### How's Life? 🌇
 
-🔭 I’m currently working on DApps a.k.a Web3 TechStack <br>
-🌱 I’m currently learning Cloud-Computing <3 <br>
-👯 I’m looking to collaborate on Solidity based Projects <br>
+🔭 I’m currently working on Deep Learning and designing Neural Networks <br>
+🌱 I’m currently learning Reinforcement Learning <3 <br>
+👯 I’m looking to collaborate on ML based Projects <br>
 💬 Ask me about JavaScript, Express.js, Solidity, Testing Smart Contracts...  <br>
 😄 Pronouns: He/Him <br>
 
