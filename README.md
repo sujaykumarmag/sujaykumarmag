@@ -11,10 +11,7 @@ Here are some ideas to get you started: -->
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7D8B8&vCenter=true&width=638&height=100&lines=I+am+a+Full+Stack+Developer;I+am+a+Blockchain+Developer;I+am+a+Data+Analyst)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=I+am+an+ML+Engineer+;I+am+an+Data+Analyst;I+research+about+the+current+DL+applications)](https://git.io/typing-svg)
 
 
 
