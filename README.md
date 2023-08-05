@@ -25,7 +25,7 @@ I love developing innovative and interesting Projects
 
 ### How's Life? 🌇
 
-🔭 I’m currently working on Deep Learning and designing Neural Networks <br>
+🔭 I’m currently working on Deep Learning and designing Neural and Generative adversarial Networks <br>
 🌱 I’m currently learning Reinforcement Learning <3 <br>
 👯 I’m looking to collaborate on ML based Projects <br>
 💬 Ask me about Supervised, Unsupervised and Semi-supervised Algorithms and applications like Anomaly Detection etc...  <br>
