@@ -96,5 +96,3 @@ I love developing innovative and interesting Projects
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaykumarmag&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
-
-
