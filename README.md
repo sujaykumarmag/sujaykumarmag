@@ -28,11 +28,11 @@
 
 - 🔭 I’m currently working on [Generative AI](https://github.com/sujaykumarmag/fashion-GAN)
 
-- 🌱 I’m currently learning **Generative AI, Federated Learning**
+- 🌱 I’m currently learning **Generative AI, Transformers, Federated Learning, Explainable AI, Trustworthy AI**
 
-- 👯 I’m looking to collaborate on [Reinforcement Learning](https://github.com/sujaykumarmag/delhi_electricity_forecasting)
+- 👯 I’m looking to collaborate on [Deep Learning](https://github.com/sujaykumarmag/delhi_electricity_forecasting)
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-site-lake-zeta.vercel.app](https://portfolio-site-lake-zeta.vercel.app)
 
