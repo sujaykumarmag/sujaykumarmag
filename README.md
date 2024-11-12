@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **sujaykumar.reddym@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1vufv3UT_LINpefPuvIMRzVpOsMzPEXm9?usp=share_link](https://drive.google.com/drive/folders/1vufv3UT_LINpefPuvIMRzVpOsMzPEXm9?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_q6r9lWNCsVQxB9yWPSqfmGqa9TEMhV0/view?usp=share_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
