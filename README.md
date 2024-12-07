@@ -34,7 +34,7 @@
 
 - 🤝 I’m looking for help with **Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-lake-zeta.vercel.app](https://portfolio-site-lake-zeta.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sujaykumarmag.github.io](https://sujaykumarmag.github.io)
 
 - 📝 I regularly write articles on [https://portfolio-site-lake-zeta.vercel.app/blogs](https://portfolio-site-lake-zeta.vercel.app/blogs)
 
